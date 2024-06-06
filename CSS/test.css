@@ -1,0 +1,28 @@
+body{
+    background-color: lightpink;
+}
+h1{
+    font-size:30px;
+    color:#53174f;
+}
+
+h1 span{
+    color:darkorchid
+ }
+
+ h3{
+       color:rgb(119, 197, 216);
+}
+
+ .big{
+      font-size: 60px;
+ }
+
+.uppercase{
+      text-transform:uppercase
+}
+
+.big.uppercase{
+    color: blueviolet;
+}
+
